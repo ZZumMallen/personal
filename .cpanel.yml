@@ -4,3 +4,4 @@ deployment:
     - export DEPLOYPATH=/home2/rzzwekmy/public_html/
     - /bin/cp home.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
+    
