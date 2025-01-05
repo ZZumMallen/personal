@@ -5,3 +5,4 @@ deployment:
     - /bin/cp home.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
     
+# adding this note to see if the push helps
